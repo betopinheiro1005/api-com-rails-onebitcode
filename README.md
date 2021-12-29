@@ -1,24 +1,9 @@
-# README
+# Criando uma API completa com Rails
+## Leonardo Scorza (One Bit Code)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Tópicos - [Vídeo da aula](https://www.youtube.com/watch?v=EqOoElCjpNI)
 
-Things you may want to cover:
+- Planejando nossa API  
+- Preparando a base da API  
+- Desenvolvendo e testando nossa API  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
